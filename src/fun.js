@@ -3,5 +3,5 @@ export const plus = (a,b) => {
 }
 
 export const treeShaking = () => {
-    console.log('treeShaking!');
+    console.log('treeShaking!!');
 }
